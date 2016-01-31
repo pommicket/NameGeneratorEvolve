@@ -10,13 +10,13 @@ Executables can be found in the build directory, but if you want to compile the 
 **Windows**
 ```bash
 cd build/Windows
-NameLearn
+NameGeneratorEvolve
 ```
 
 **GNU/Linux**
 ```bash
 cd build/GNULinux
-./NameLearn
+./NameGeneratorEvolve
 ```
 
 Mac OS X is not supported.

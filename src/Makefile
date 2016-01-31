@@ -1,6 +1,6 @@
 CC=gcc
 
-default: NameLearn
+default: NameGeneratorEvolve
 
-NameLearn: main.c
-	$(CC) -o NameLearn main.c
+NameGeneratorEvolve: main.c
+	$(CC) -o NameGeneratorEvolve main.c
