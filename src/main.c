@@ -14,7 +14,7 @@ int main()
     char* cmd;
     char* name;
     char nameArray[2048];
-    double R;
+    float R;
     cmd = malloc(4096);
     while (1)
     {
