@@ -7,7 +7,7 @@ Executables can be found in the build directory, but if you want to compile the 
 
 **The names evolve *very* slowly. They start out completely random.**
 
-**Windows**
+**Windows**  
 Just run NameGeneratorEvolve.exe
 
 **GNU/Linux**
