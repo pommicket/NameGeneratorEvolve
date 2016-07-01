@@ -8,14 +8,10 @@ Executables can be found in the build directory, but if you want to compile the 
 **The names evolve *very* slowly. They start out completely random.**
 
 **Windows**
-```bash
-cd build/Windows
-NameGeneratorEvolve
-```
+Just run NameGeneratorEvolve.exe
 
 **GNU/Linux**
 ```bash
-cd build/GNULinux
 ./NameGeneratorEvolve
 ```
 
